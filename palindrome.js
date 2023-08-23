@@ -1,4 +1,4 @@
-function palindeome(str){
+function palindrome(str){
   let newStr="";
 
   for(let i=str.length;i>=0;i--){
